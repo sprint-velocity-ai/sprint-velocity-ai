@@ -25,4 +25,4 @@ Overall, **SprintVelocity<span class="accentColor">.ai</span>** is a comprehensi
 
 # Contact
 ### Prashant Surana, Principal Consultant
-✉️ (mailto:prashant@sprintvelocity.ai)
+✉️ <a href="mailto:prashant@sprintvelocity.ai">prashant@sprintvelocity.ai</a>
