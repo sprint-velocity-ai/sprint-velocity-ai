@@ -1,0 +1,29 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+$accent-color: #b45f06;
+* {
+    font-family: 'Didact Gothic';
+}
+.accentColor{
+    color:$accent-color;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6{
+    color:$accent-color;
+}
+.page-header{
+    background-image: linear-gradient(120deg, #434343, #666666);
+    padding: 1rem;
+}
+ul.topNav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    li{
+        margin-left: 1em;
+        margin-right: 1em;
+        float: left;
+    };
+}
